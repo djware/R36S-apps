@@ -27,10 +27,20 @@ A simple, lightweight screenshot solution for arkOS with dynamic RGB LED feedbac
    ```
 3. Reboot device and then run the app after it appears in that location.
 
-📷 Usage
+## 📷 Usage
 Enable the Service: Run Enable Screenshot Service.sh.
 Disable the Service: Run Disable Screenshot Service.sh.
 Screenshots are saved in /roms/screenshots.
 
-🛠️ Logs 
+## 🛠️ Logs 
 Log File: /roms/logs/screenshot_service.log
+
+## 🖼️ Example
+A demonstration of the LED sequence after a successful screenshot.
+![screenshot_2024-11-26_10-48-47](https://github.com/user-attachments/assets/c572e790-947f-437f-b8b5-f777116511d1)
+
+![screenshot_2024-11-26_11-11-10](https://github.com/user-attachments/assets/da45eaf7-ec8d-4d05-901d-cac89b49fb07)
+
+![screenshot_2024-11-26_14-01-11](https://github.com/user-attachments/assets/eb7266c7-9eef-411c-becb-7a69d7ebc370)
+
+![screenshot_2024-11-26_14-13-25](https://github.com/user-attachments/assets/96f5afae-8726-4ebe-b90e-81d997e9a9ad)
