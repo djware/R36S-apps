@@ -1,4 +1,4 @@
-# 📸 Screenshot Service with LED Notifications
+# 📸 Screenshot Service
 
 A simple, lightweight screenshot solution for arkOS with dynamic RGB LED feedback.
 
@@ -31,3 +31,6 @@ A simple, lightweight screenshot solution for arkOS with dynamic RGB LED feedbac
 Enable the Service: Run Enable Screenshot Service.sh.
 Disable the Service: Run Disable Screenshot Service.sh.
 Screenshots are saved in /roms/screenshots.
+
+🛠️ Logs 
+Log File: /roms/logs/screenshot_service.log
