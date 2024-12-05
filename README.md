@@ -18,7 +18,7 @@ A simple, lightweight screenshot solution for arkOS with dynamic RGB LED feedbac
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/screenshot-service.git
+   git clone https://github.com/djware/R36S-apps
    ```
 2. Make the Script Executable:
    ```
