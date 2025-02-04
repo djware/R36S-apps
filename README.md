@@ -42,7 +42,6 @@ Log File: /roms/logs/screenshot_service.log
 
 ## 🖼️ Example
 A demonstration of the LED sequence after a successful screenshot.
-![screenshot_2025-02-04_09-20-46](https://github.com/user-attachments/assets/37439637-54ca-42a5-9b24-56df2bedd814)
 
 ![screenshot_2024-11-26_10-48-47](https://github.com/user-attachments/assets/c572e790-947f-437f-b8b5-f777116511d1)
 
