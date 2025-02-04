@@ -29,6 +29,7 @@ A simple, lightweight screenshot solution for arkOS with dynamic RGB LED feedbac
    chmod +x toggle_screenshot_service.sh
    ```   
 4. Reboot device and then run the app after it appears in that location. It ill be under Options -> Tools. Depending on if it is enabled or disabled it will show the option.
+   
 ![screenshot_2025-02-04_09-20-46](https://github.com/user-attachments/assets/bcea26b8-346a-4d29-9efe-0f9e2ff16977)
 
 ## 📷 Usage
